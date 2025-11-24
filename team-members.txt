@@ -1,5 +1,6 @@
  Team Leader: John Smith
  Developer: Alice Johnson
  Developer: Bob Wilson
-
+ Designer: Sarah Lee
+ Designer: Mike Chen
  Project Status: Active
